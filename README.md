@@ -32,9 +32,8 @@ The goal of this project is to predict wine quality based on its chemical charac
   ---
   ## 📂 Resources
 - 🗂 **Dataset:** `ifood_df.csv`  
-- 💻 **Code:** [Google Colab Notebook](https://colab.research.google.com/drive/142Jdr3l1TPSgWaM_zxg4fEWDqXiv-5kF?usp=sharing)  
-- 🎥 **Video Presentation:** [YouTube Video Link]()
-
+- 💻 **Code:** [Google Colab Notebook](https://colab.research.google.com/drive/142Jdr3l1TPSgWaM_zxg4fEWDqXiv-5kF?usp=sharing)
+- 
 ---
 
 ### 🧰 Tech Stack
